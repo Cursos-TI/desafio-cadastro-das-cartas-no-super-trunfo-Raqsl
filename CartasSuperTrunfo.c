@@ -36,7 +36,7 @@ int main() {
     scanf("%d", &PontosTurísticos);
 
 
-     print("Carta 02 \n");
+     printf("Carta 02 \n");
 
     char Estado2[20];
     char Código2 [20];
